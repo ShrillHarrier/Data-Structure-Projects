@@ -1,0 +1,1 @@
+LinkedList.o: ../LinkedList.cpp

@@ -1,0 +1,1 @@
+InvalidArgument.o: ../InvalidArgument.cpp
