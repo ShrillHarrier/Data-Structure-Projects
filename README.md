@@ -1,4 +1,4 @@
-# Data_Structure_Projects
+# Data-Structure-Projects
 A collection of projects from ECE 252 - Data Structures and Algorithms. 
 
 LinkedList - A program to create polynomials using linked lists
